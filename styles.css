@@ -106,4 +106,7 @@ a {
 .attribution a {
     color: hsl(228, 45%, 44%);
     font-size: 11px; text-align: center;
+    font-size: medium;
+    height: 75px;
+    width: 200px;text-align: center;
 }
